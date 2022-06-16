@@ -14,3 +14,14 @@ body{
 .vip{
     color: chocolate;
 }
+.form-style{
+    background-color: aquamarine;
+    width: 250px;
+    margin-left: 40px;
+}
+.form-style input{
+    margin: 20px 10px ;
+}
+.form-style h2{
+    padding: 20px;
+}
